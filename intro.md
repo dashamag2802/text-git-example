@@ -4,7 +4,9 @@
 
 * One
 * Two _italic_
-* Like 4 item
+---
+* 4 item
+* 5 item
 ---
 
 ## Subtitle 2
